@@ -1,0 +1,24 @@
+# FreightTiger AI Assistant – Git Ignore
+
+# Environment & secrets
+.env
+
+# Cache directory
+.cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+.vscode/
+*.swp
